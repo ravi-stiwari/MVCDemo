@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var renameBtn: UIButton!
     @IBOutlet weak var renameTxtField: UITextField!
     
-    let person = Person(firstname: "Ravi", lastname: "Tiwari")
+    let person = Person(firstname: "Ravi Shanker", lastname: "Tiwari")
     
     override func viewDidLoad() {
         super.viewDidLoad()
